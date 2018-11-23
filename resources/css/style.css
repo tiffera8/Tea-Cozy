@@ -133,7 +133,7 @@ image span {
   display: inline-flex;
   flex-direction: row;
   justify-content: space-around;
-  align-content: space-around;
+  align-items: center;
 }
 
 .background {
@@ -147,6 +147,7 @@ image span {
   flex-direction: row;
   text-align: center;
   justify-content: center;
+  align-content: space-around;
   background-color: black;
   padding-right: 20px;
   padding-left: 20px;
